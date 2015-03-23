@@ -1,7 +1,7 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-My (John Bohne's) submission for [Insight Data Engineering](insightdataengineering.com) Coding Challenge for June 2015.
+My (John Bohne's) submission for Insight Data Engineering(insightdataengineering.com) Coding Challenge for June 2015.
 The two files in the src directory are files are written using Java.
 You must have the Java JDK installed on your machine in order to run them.
 The shell script compiles and runs the programs, provided the Java JDK is installed.
