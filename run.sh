@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-
+# change permissions to executable
 chmod a+x src/RunningMedian.java
 chmod a+x src/WordCount.java
-# compile the files and output the class files into out/production
+# compile the files and output the class files into main directory
 javac -d . src/WordCount.java
 javac -d . src/RunningMedian.java
 
